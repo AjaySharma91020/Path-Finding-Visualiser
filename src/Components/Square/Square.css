@@ -1,0 +1,20 @@
+.square{
+    height : 20px;
+    width : 20px;
+}
+
+.initial-square{
+    background-color: rgb(238, 238, 9);
+}
+
+.final-square{
+    background-color: rgb(236, 59, 59);
+}
+
+.visited-square{
+    background-color: aqua;
+}
+
+.path-square{
+    background-color: rgb(30, 30, 243);
+}
